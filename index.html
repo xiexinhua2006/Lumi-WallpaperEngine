@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns=http://www.w3.org/1999/xhtml>
+
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+    <meta http-equiv=pragma content=no-cache>
+    <meta http-equiv=cache-control content=no-cache>
+    <meta name=Copyright content=miHoYo>
+    <meta name=Description content="">
+    <meta name=Keywords content="">
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=applicable-device content=mobile>
+    <meta name=viewport content="width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <meta name=format-detection content="telephone=no">
+    <meta name=format-detection content="email=no">
+    <meta name=apple-mobile-web-app-capable content=yes>
+    <meta name=apple-mobile-web-status-bar-style content=black-translucent>
+    <title>鹿鸣·动态桌面</title>
+    <link href=css/index_3920ddf29ec54fb1d4f0.css?a3c9becb2a7129e1e79c rel=stylesheet>
+</head>
+
+<body style="opacity: 0;">
+    <script>
+        vplayer.addEventListener("timeupdate", function(e) {
+            if (vplayer.currentTime > 0) {
+                $('.startimg').attr('src', playPath[playNum].img);
+                $('.startimg').css('visibility', 'hidden');
+            }
+            if (vplayer.currentTime >= vplayer.duration - 0.2 && playPath[playNum].img) {
+                $('.startimg').css('visibility', 'visible');
+            }
+        });
+    </script>
+    <video id=player1 preload crossorigin=anonymous autoplay muted></video>
+    <video id=player2 preload crossorigin=anonymous autoplay muted></video>
+    <div id=debugPanel>
+        <span id=currentState></span>
+        <span id=currentEvent></span>
+    </div>
+    <script src=./js/index_3920ddf29ec54fb1d4f0.js?a3c9becb2a7129e1e79c></script>
+</body>
+
+</html>

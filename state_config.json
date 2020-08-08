@@ -1,0 +1,1824 @@
+{
+    "triple_list": [{
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375533303_760.ndf",
+                        "sign": "69e14a29bcaa5b1dd0283b72b7638030",
+                        "size": "22788226",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375533958_30.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772350356_971.ndf",
+                        "sign": "c5d8faa93269f8899c3b7d81188ef2de",
+                        "size": "22777160",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772350944_709.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772451405_831.ndf",
+                        "sign": "e5224d91e997a2c1809f1e1144af1327",
+                        "size": "22724493",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772452020_693.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "BOOT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Start",
+                "videos": []
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375537686_871.ndf",
+                        "sign": "7161e322dff82017b30f864b1fb29cec",
+                        "size": "24059156",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375538407_200.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772355945_816.ndf",
+                        "sign": "ec67a18a59ce6c428b62aa54eb087ba3",
+                        "size": "24288950",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772356608_224.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772455985_959.ndf",
+                        "sign": "45b522784308cf2555ab61eb3dd6953e",
+                        "size": "24454537",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772456695_947.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "BOOT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Start",
+                "videos": []
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_C",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375541041_245.ndf",
+                        "sign": "d7cf314a3bcaf545d4dd15aad2c30ab4",
+                        "size": "16220417",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375541459_182.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772361008_392.ndf",
+                        "sign": "4437944c8e0ec0d30749f11a6ef9ec4a",
+                        "size": "16346851",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772361476_593.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772459589_139.ndf",
+                        "sign": "4fba950b9fd32174096cd1f29e9953f6",
+                        "size": "16415383",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772460039_539.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "BOOT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Start",
+                "videos": []
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375533303_760.ndf",
+                        "sign": "69e14a29bcaa5b1dd0283b72b7638030",
+                        "size": "22788226",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375533958_30.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772350356_971.ndf",
+                        "sign": "c5d8faa93269f8899c3b7d81188ef2de",
+                        "size": "22777160",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772350944_709.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772451405_831.ndf",
+                        "sign": "e5224d91e997a2c1809f1e1144af1327",
+                        "size": "22724493",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772452020_693.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375537686_871.ndf",
+                        "sign": "7161e322dff82017b30f864b1fb29cec",
+                        "size": "24059156",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375538407_200.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772355945_816.ndf",
+                        "sign": "ec67a18a59ce6c428b62aa54eb087ba3",
+                        "size": "24288950",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772356608_224.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772455985_959.ndf",
+                        "sign": "45b522784308cf2555ab61eb3dd6953e",
+                        "size": "24454537",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772456695_947.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_Start_C",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375541041_245.ndf",
+                        "sign": "d7cf314a3bcaf545d4dd15aad2c30ab4",
+                        "size": "16220417",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375541459_182.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772361008_392.ndf",
+                        "sign": "4437944c8e0ec0d30749f11a6ef9ec4a",
+                        "size": "16346851",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772361476_593.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772459589_139.ndf",
+                        "sign": "4fba950b9fd32174096cd1f29e9953f6",
+                        "size": "16415383",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772460039_539.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SitA_to_SleepA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588276_22.ndf",
+                        "sign": "bfed30edc76b82c6edc6aa3cc1cfd1c6",
+                        "size": "13499561",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588661_324.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403200_568.ndf",
+                        "sign": "edfbb4295684c7951261ad35d93a46f6",
+                        "size": "13412360",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403595_165.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508003_459.ndf",
+                        "sign": "dc1b4d01152fdd885ecf678c5e275a59",
+                        "size": "12210885",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508381_566.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "{\"time\":[3,5],\"type\":\"Random\",\"probability\":3}",
+                "key": "TIMER"
+            },
+            "src": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SitA_to_SleepA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588276_22.ndf",
+                        "sign": "bfed30edc76b82c6edc6aa3cc1cfd1c6",
+                        "size": "13499561",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588661_324.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403200_568.ndf",
+                        "sign": "edfbb4295684c7951261ad35d93a46f6",
+                        "size": "13412360",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403595_165.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508003_459.ndf",
+                        "sign": "dc1b4d01152fdd885ecf678c5e275a59",
+                        "size": "12210885",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508381_566.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "{\"time\":[0,1],\"type\":\"Definite\"}",
+                "key": "COVER"
+            },
+            "src": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573489_251.ndf",
+                                "sign": "b9d15a915c0108ff5f5273e4f7c7ccf4",
+                                "size": "3017864",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573700_517.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390353_560.ndf",
+                                "sign": "346c7cf69d7e9b5a579eceda9854d91c",
+                                "size": "4736306",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390582_632.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772489918_936.ndf",
+                                "sign": "431e066bed429fb98c59b57849869327",
+                                "size": "4735441",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772490177_595.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578232_56.ndf",
+                                "sign": "8275e60617844434dfc8a2580ebe4358",
+                                "size": "4567741",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578454_123.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395298_551.ndf",
+                                "sign": "bbf5dccb5d814bc5f8761d9398bb1fa7",
+                                "size": "6514406",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395610_794.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500097_487.ndf",
+                                "sign": "bdcfd8abe62e07c7f648aeb196b4cb5c",
+                                "size": "6465434",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500394_61.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sleep_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569511_896.ndf",
+                        "sign": "67472da7c0817a6dbe85add35c0ccf67",
+                        "size": "2982346",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569738_437.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386035_987.ndf",
+                        "sign": "e7485f6f83f32aecbd569f4c7397f135",
+                        "size": "4722968",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386304_655.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772486969_961.ndf",
+                        "sign": "3479975a20ed9da8d683dd2bdbdd53de",
+                        "size": "4718933",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772487207_148.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SitA_to_SleepA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588276_22.ndf",
+                        "sign": "bfed30edc76b82c6edc6aa3cc1cfd1c6",
+                        "size": "13499561",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375588661_324.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403200_568.ndf",
+                        "sign": "edfbb4295684c7951261ad35d93a46f6",
+                        "size": "13412360",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772403595_165.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508003_459.ndf",
+                        "sign": "dc1b4d01152fdd885ecf678c5e275a59",
+                        "size": "12210885",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772508381_566.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepA_To_SitA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375592677_857.ndf",
+                        "sign": "f24fdb79bfa6151310fd485fac27dc57",
+                        "size": "13701416",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375593059_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772414756_747.ndf",
+                        "sign": "e6d97ca21ed5b47c095f760c75acb3ce",
+                        "size": "13820914",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772415170_344.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772513400_788.ndf",
+                        "sign": "b913e7e294c47588d804633222b582e2",
+                        "size": "13865699",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772513829_324.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "WAKEUP"
+            },
+            "src": {
+                "children": [{
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573489_251.ndf",
+                                "sign": "b9d15a915c0108ff5f5273e4f7c7ccf4",
+                                "size": "3017864",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573700_517.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390353_560.ndf",
+                                "sign": "346c7cf69d7e9b5a579eceda9854d91c",
+                                "size": "4736306",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390582_632.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772489918_936.ndf",
+                                "sign": "431e066bed429fb98c59b57849869327",
+                                "size": "4735441",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772490177_595.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578232_56.ndf",
+                                "sign": "8275e60617844434dfc8a2580ebe4358",
+                                "size": "4567741",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578454_123.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395298_551.ndf",
+                                "sign": "bbf5dccb5d814bc5f8761d9398bb1fa7",
+                                "size": "6514406",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395610_794.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500097_487.ndf",
+                                "sign": "bdcfd8abe62e07c7f648aeb196b4cb5c",
+                                "size": "6465434",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500394_61.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "{\"probability\":70}",
+                "key": "Idle_Sleep_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569511_896.ndf",
+                        "sign": "67472da7c0817a6dbe85add35c0ccf67",
+                        "size": "2982346",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569738_437.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386035_987.ndf",
+                        "sign": "e7485f6f83f32aecbd569f4c7397f135",
+                        "size": "4722968",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386304_655.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772486969_961.ndf",
+                        "sign": "3479975a20ed9da8d683dd2bdbdd53de",
+                        "size": "4718933",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772487207_148.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573489_251.ndf",
+                                "sign": "b9d15a915c0108ff5f5273e4f7c7ccf4",
+                                "size": "3017864",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573700_517.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390353_560.ndf",
+                                "sign": "346c7cf69d7e9b5a579eceda9854d91c",
+                                "size": "4736306",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390582_632.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772489918_936.ndf",
+                                "sign": "431e066bed429fb98c59b57849869327",
+                                "size": "4735441",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772490177_595.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578232_56.ndf",
+                                "sign": "8275e60617844434dfc8a2580ebe4358",
+                                "size": "4567741",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578454_123.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395298_551.ndf",
+                                "sign": "bbf5dccb5d814bc5f8761d9398bb1fa7",
+                                "size": "6514406",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395610_794.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500097_487.ndf",
+                                "sign": "bdcfd8abe62e07c7f648aeb196b4cb5c",
+                                "size": "6465434",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500394_61.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepA_To_SitA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375592677_857.ndf",
+                        "sign": "f24fdb79bfa6151310fd485fac27dc57",
+                        "size": "13701416",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375593059_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772414756_747.ndf",
+                        "sign": "e6d97ca21ed5b47c095f760c75acb3ce",
+                        "size": "13820914",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772415170_344.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772513400_788.ndf",
+                        "sign": "b913e7e294c47588d804633222b582e2",
+                        "size": "13865699",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772513829_324.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepA_To_SleepB",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375596981_965.ndf",
+                        "sign": "f5bce4ad17951d54f5bf1d372c8329ff",
+                        "size": "7457564",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375597265_906.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772425826_599.ndf",
+                        "sign": "f51ca0436ac0f7020262979f82f0c970",
+                        "size": "7292872",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772426095_98.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772517719_256.ndf",
+                        "sign": "c78ac082cb888f8a7c8c3df1d544fa0d",
+                        "size": "7512511",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772517988_189.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "{\"time\":[1,2],\"type\":\"Random\",\"probability\":10}",
+                "key": "TIMER"
+            },
+            "src": {
+                "children": [{
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573489_251.ndf",
+                                "sign": "b9d15a915c0108ff5f5273e4f7c7ccf4",
+                                "size": "3017864",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375573700_517.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390353_560.ndf",
+                                "sign": "346c7cf69d7e9b5a579eceda9854d91c",
+                                "size": "4736306",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772390582_632.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772489918_936.ndf",
+                                "sign": "431e066bed429fb98c59b57849869327",
+                                "size": "4735441",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772490177_595.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "{\"probability\":15}",
+                        "key": "Idle_Sleep_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578232_56.ndf",
+                                "sign": "8275e60617844434dfc8a2580ebe4358",
+                                "size": "4567741",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375578454_123.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395298_551.ndf",
+                                "sign": "bbf5dccb5d814bc5f8761d9398bb1fa7",
+                                "size": "6514406",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772395610_794.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500097_487.ndf",
+                                "sign": "bdcfd8abe62e07c7f648aeb196b4cb5c",
+                                "size": "6465434",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772500394_61.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sleep_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569511_896.ndf",
+                        "sign": "67472da7c0817a6dbe85add35c0ccf67",
+                        "size": "2982346",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375569738_437.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386035_987.ndf",
+                        "sign": "e7485f6f83f32aecbd569f4c7397f135",
+                        "size": "4722968",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772386304_655.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772486969_961.ndf",
+                        "sign": "3479975a20ed9da8d683dd2bdbdd53de",
+                        "size": "4718933",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772487207_148.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Idle_Sleep_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582268_239.ndf",
+                        "sign": "c9e449a942535259528aa65163c8b50d",
+                        "size": "3490033",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582475_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399089_249.ndf",
+                        "sign": "f10d019db009cc25b227ea99eb3d59bb",
+                        "size": "5423486",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399356_690.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504194_80.ndf",
+                        "sign": "a96a79381fd6e3fb3a4dcbb5663a9af0",
+                        "size": "5418867",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504478_125.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepA_To_SleepB",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375596981_965.ndf",
+                        "sign": "f5bce4ad17951d54f5bf1d372c8329ff",
+                        "size": "7457564",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375597265_906.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772425826_599.ndf",
+                        "sign": "f51ca0436ac0f7020262979f82f0c970",
+                        "size": "7292872",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772426095_98.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772517719_256.ndf",
+                        "sign": "c78ac082cb888f8a7c8c3df1d544fa0d",
+                        "size": "7512511",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772517988_189.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Idle_Sleep_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582268_239.ndf",
+                        "sign": "c9e449a942535259528aa65163c8b50d",
+                        "size": "3490033",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582475_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399089_249.ndf",
+                        "sign": "f10d019db009cc25b227ea99eb3d59bb",
+                        "size": "5423486",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399356_690.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504194_80.ndf",
+                        "sign": "a96a79381fd6e3fb3a4dcbb5663a9af0",
+                        "size": "5418867",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504478_125.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Idle_Sleep_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582268_239.ndf",
+                        "sign": "c9e449a942535259528aa65163c8b50d",
+                        "size": "3490033",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582475_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399089_249.ndf",
+                        "sign": "f10d019db009cc25b227ea99eb3d59bb",
+                        "size": "5423486",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399356_690.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504194_80.ndf",
+                        "sign": "a96a79381fd6e3fb3a4dcbb5663a9af0",
+                        "size": "5418867",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504478_125.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepB_To_SitA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600567_527.ndf",
+                        "sign": "8eae30fceb9da4a2c5ceba974111f7a3",
+                        "size": "13686195",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600918_559.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430230_640.ndf",
+                        "sign": "1eeed7d240a4426a435aee15d6587951",
+                        "size": "13732311",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430624_322.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522028_829.ndf",
+                        "sign": "094488a04322dcefc42159d7b32e932e",
+                        "size": "13810835",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522450_557.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "WAKEUP"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Idle_Sleep_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582268_239.ndf",
+                        "sign": "c9e449a942535259528aa65163c8b50d",
+                        "size": "3490033",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582475_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399089_249.ndf",
+                        "sign": "f10d019db009cc25b227ea99eb3d59bb",
+                        "size": "5423486",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399356_690.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504194_80.ndf",
+                        "sign": "a96a79381fd6e3fb3a4dcbb5663a9af0",
+                        "size": "5418867",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504478_125.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepB_To_SitA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600567_527.ndf",
+                        "sign": "8eae30fceb9da4a2c5ceba974111f7a3",
+                        "size": "13686195",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600918_559.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430230_640.ndf",
+                        "sign": "1eeed7d240a4426a435aee15d6587951",
+                        "size": "13732311",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430624_322.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522028_829.ndf",
+                        "sign": "094488a04322dcefc42159d7b32e932e",
+                        "size": "13810835",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522450_557.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "{\"time\":[3,5],\"type\":\"Random\",\"probability\":2}",
+                "key": "TIMER"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Idle_Sleep_B",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582268_239.ndf",
+                        "sign": "c9e449a942535259528aa65163c8b50d",
+                        "size": "3490033",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375582475_309.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399089_249.ndf",
+                        "sign": "f10d019db009cc25b227ea99eb3d59bb",
+                        "size": "5423486",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772399356_690.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504194_80.ndf",
+                        "sign": "a96a79381fd6e3fb3a4dcbb5663a9af0",
+                        "size": "5418867",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772504478_125.ndf"
+                    }
+                ]
+            }
+        },
+        {
+            "dst": {
+                "children": [{
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Aa",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549382_188.ndf",
+                                "sign": "30fa52fc4c5049c0bc94235cbd37a4ac",
+                                "size": "8548331",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375549709_131.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369125_47.ndf",
+                                "sign": "592c337516501300ccd81623ba7c7fa4",
+                                "size": "9981645",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772369470_669.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469234_238.ndf",
+                                "sign": "81080510d71707dd19074287995131a5",
+                                "size": "9978651",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772469558_171.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ab",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553145_578.ndf",
+                                "sign": "c7ff08cf05838c3669d6e52fbb31f76f",
+                                "size": "9064213",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375553440_540.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373410_558.ndf",
+                                "sign": "3c1648e00b54ee6ecbaf548ef55cb3c5",
+                                "size": "10584730",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772373728_119.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473036_415.ndf",
+                                "sign": "2b6eef81ea7b5a7284b4c7a879259fb7",
+                                "size": "10544090",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772473385_575.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ac",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559486_304.ndf",
+                                "sign": "6dbeb4e899338c478282c6883b935d96",
+                                "size": "16578114",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375559859_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772376767_395.ndf",
+                                "sign": "e5fb602e8a481cb49e78269b18ae9e08",
+                                "size": "17913611",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772377228_965.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476358_628.ndf",
+                                "sign": "134ee83fd2d347c4e65b0533f12dded7",
+                                "size": "17957593",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772476936_765.ndf"
+                            }
+                        ]
+                    },
+                    {
+                        "children": [],
+                        "ext": "",
+                        "key": "Idle_Sit_Ad",
+                        "videos": [{
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375563678_729.ndf",
+                                "sign": "d981c04866ad5761519f7707a70f436e",
+                                "size": "24560846",
+                                "style": "Green",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375564308_107.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772380986_13.ndf",
+                                "sign": "c5c66f35245ec8889921d195efea7601",
+                                "size": "25875144",
+                                "style": "Pink",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772381627_697.ndf"
+                            },
+                            {
+                                "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482035_974.ndf",
+                                "sign": "b2d70ab70dae8707e0f21c78923ed9db",
+                                "size": "26012180",
+                                "style": "Blue",
+                                "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772482697_898.ndf"
+                            }
+                        ]
+                    }
+                ],
+                "ext": "",
+                "key": "Idle_Sit_A",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546260_651.ndf",
+                        "sign": "8de68195c9e5ec2e45a581a969aa929c",
+                        "size": "11964369",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375546646_379.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365391_491.ndf",
+                        "sign": "e443605a700962c9dbcb1ab606f3e8ac",
+                        "size": "13749531",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772365795_301.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465040_922.ndf",
+                        "sign": "f1755fd3a53b6993fcddd4ab95488f40",
+                        "size": "13718344",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772465942_41.ndf"
+                    }
+                ]
+            },
+            "event": {
+                "ext": "",
+                "key": "DEFAULT"
+            },
+            "src": {
+                "children": [],
+                "ext": "",
+                "key": "Transition_SleepB_To_SitA",
+                "videos": [{
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600567_527.ndf",
+                        "sign": "8eae30fceb9da4a2c5ceba974111f7a3",
+                        "size": "13686195",
+                        "style": "Green",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/02/1596375600918_559.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430230_640.ndf",
+                        "sign": "1eeed7d240a4426a435aee15d6587951",
+                        "size": "13732311",
+                        "style": "Pink",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772430624_322.ndf"
+                    },
+                    {
+                        "cover": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522028_829.ndf",
+                        "sign": "094488a04322dcefc42159d7b32e932e",
+                        "size": "13810835",
+                        "style": "Blue",
+                        "video": "https://n0va-static.mihoyo.com/desk-portal/2020/08/07/1596772522450_557.ndf"
+                    }
+                ]
+            }
+        }
+    ]
+}

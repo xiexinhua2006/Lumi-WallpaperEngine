@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta charset="UTF-8">
+    <title>视频交互</title>
+
+    <style type="text/css">
+        /*视频*/
+        
+        #video_box {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        
+        #video_box video {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+            height: 100%;
+            /*object-fit:fill;*/
+            position: absolute;
+            left: 0;
+            top: 0;
+            visibility: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 视频播放区 -->
+    <div id="video_box">
+        <video id="vplayer_start" src="http://127.0.0.1:2333/lm-videos/Idle_Sit_Aa.mp4" autoplay="true" webkit-playsinline="true" playsinline="true" x-webkit-airplay="allow" x5-video-player-type="h5" x5-video-player-fullscreen="true" x5-video-orientation="portraint"
+            style="object-fit:fill"></video>
+        <video id="vplayer" src="http://127.0.0.1:2333/lm-videos/Idle_Sit_Ab.mp4" autoplay="true" webkit-playsinline="true" playsinline="true" x-webkit-airplay="allow" x5-video-player-type="h5" x5-video-player-fullscreen="true" x5-video-orientation="portraint"
+            style="object-fit:fill;"></video>
+    </div>
+
+
+    <script>
+        var startPlay = true;
+        var vplayer_start = document.getElementById('vplayer_start');
+        var vplayer = document.getElementById('vplayer'),
+            video_box = document.getElementById('video_box');
+
+        vplayer_start.pause();
+        vplayer.play();
+        // 播放结束
+        vplayer_start.addEventListener("ended", function(e) {
+            vplayer.style.visibility = "visible";
+            vplayer.play();
+            e.target.style.display = "none";
+        });
+        //循环播放第二个视频
+        vplayer.addEventListener("ended", function(e) {
+            e.target.play();
+        });
+
+        vplayer.addEventListener('canplay', function(e) {
+            if (startPlay) {
+                e.target.pause();
+                vplayer_start.style.visibility = "visible";
+                vplayer_start.play();
+                startPlay = false;
+            }
+        })
+    </script>
+</body>
+
+</html>
